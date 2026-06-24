@@ -31,14 +31,6 @@ The goal of this project was to practice and improve my skills in:
 - HTML5
 - CSS3
 
-## 📂 Project Structure
-Portfolio/
-│
-├── index.html
-├── style.css
-└── assets/
-└── images/
-
 ## 🚀 How To Run
 
 1. Clone this repository
@@ -63,7 +55,7 @@ Portfolio/
 
 **Somay Yadav**
 
-- GitHub: https://github.com/your-username
+- GitHub: https://github.com/Somay-Yadav
 
 ---
 
