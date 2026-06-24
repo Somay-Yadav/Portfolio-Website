@@ -59,4 +59,8 @@ The goal of this project was to practice and improve my skills in:
 
 ---
 
+<<<<<<< HEAD
 ⭐ If you like this project, consider giving it a star!
+=======
+⭐ If you like this project, consider giving it a star!
+>>>>>>> a18941ee3d76f52208234d83fa8449acdbc4ff5c
