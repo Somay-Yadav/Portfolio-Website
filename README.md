@@ -17,14 +17,14 @@ The goal of this project was to practice and improve my skills in:
 
 ## ✨ Features
 
-- 🎨 Modern gradient UI design
+- 🎨 Modern UI design
 - 📱 Responsive design for mobile devices
 - 🧑‍💻 Personal introduction section
 - 🎓 Education section
 - 🛠 Skills showcase
 - 📩 Contact section
 - ✨ Hover effects and smooth animations
-- ⌨️ Typing animation effect
+
 
 ## 🛠️ Technologies Used
 
@@ -53,7 +53,7 @@ The goal of this project was to practice and improve my skills in:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Somay Yadav**
 
 - GitHub: https://github.com/your-username
 
