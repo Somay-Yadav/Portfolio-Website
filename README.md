@@ -55,7 +55,7 @@ The goal of this project was to practice and improve my skills in:
 
 **Somay Yadav**
 
-- GitHub: https://github.com/your-username
+- GitHub: https://github.com/Somay-Yadav
 
 ---
 
