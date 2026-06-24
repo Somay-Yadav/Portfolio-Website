@@ -102,6 +102,11 @@ nav a.active{
         border-radius: 0.5rem;
         border-bottom: 0.5rem solid #b74b4b; 
     }
+
+    .education-card{
+        flex-direction: column;
+        gap: 5rem;
+    }
 }
 
 section{
